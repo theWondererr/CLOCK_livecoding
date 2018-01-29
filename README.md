@@ -25,3 +25,10 @@ Il comprend :
 6. TODO: Autoriser Travis, Codecov et CodeClimate à accéder au dépôt
 
 ## Mon Corps Est Un Temple
+
+## Auteurs
+
+- FORTIN Eloïse
+- HULOT Louis
+- MARTIN Alexandre
+- PRIOUL Rémy
